@@ -68,13 +68,15 @@ export default function ContactForm() {
         <h4 className="font-semibold">Contact info</h4>
         <div className="mt-2 text-slate-600">
           <div>Address:</div>
-          <div className="mt-1 text-sm">Office 405, Salahiddin Street, Sheikh Saud BLDG, PO BOX 39317, Dubai</div>
+          <div className="mt-1 text-sm">
+Office 405, H.H. SH Saud Bin Saqar BLDGs
+Sheikh Saud Street, Dubai, UAE</div>
 
           <div className="mt-3">Phone: <a href="tel:+97145761731" className="text-primary">+971 4 576 1731</a></div>
           <div className="mt-1">Email: <a href="mailto:Rustamjonovichsupport@gmail.com" className="text-primary">Rustamjonovichsupport@gmail.com</a></div>
         </div>
 
-        <div className="mt-4 small-muted">Hours: Mon–Sat 9:00–19:00</div>
+        <div className="mt-4 small-muted">Hours: Mon–Sat 9:00–18:00</div>
 
         <a className="btn mt-4 inline-block" href="mailto:Rustamjonovichsupport@gmail.com">Email us</a>
       </aside>
